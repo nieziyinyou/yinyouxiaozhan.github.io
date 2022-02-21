@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nieziyinyou.github.io</id>
+    <id>https://yinyouxiaozhan.github.io</id>
     <title>涅的音游小站</title>
-    <updated>2022-02-21T02:44:38.036Z</updated>
+    <updated>2022-02-21T02:56:00.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nieziyinyou.github.io"/>
-    <link rel="self" href="https://nieziyinyou.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yinyouxiaozhan.github.io"/>
+    <link rel="self" href="https://yinyouxiaozhan.github.io/atom.xml"/>
     <subtitle>快过来</subtitle>
-    <logo>https://nieziyinyou.github.io/images/avatar.png</logo>
-    <icon>https://nieziyinyou.github.io/favicon.ico</icon>
+    <logo>https://yinyouxiaozhan.github.io/images/avatar.png</logo>
+    <icon>https://yinyouxiaozhan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 涅的音游小站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://nieziyinyou.github.io/post/hello-gridea/</id>
-        <link href="https://nieziyinyou.github.io/post/hello-gridea/">
+        <id>https://yinyouxiaozhan.github.io/post/hello-gridea/</id>
+        <link href="https://yinyouxiaozhan.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
