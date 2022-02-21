@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nieziyinyou.github.io</id>
     <title>涅的音游小站</title>
-    <updated>2022-02-21T02:30:20.477Z</updated>
+    <updated>2022-02-21T02:31:43.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nieziyinyou.github.io"/>
     <link rel="self" href="https://nieziyinyou.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>快过来</subtitle>
     <logo>https://nieziyinyou.github.io/images/avatar.png</logo>
     <icon>https://nieziyinyou.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 涅的音游小站</rights>
